@@ -1,2 +1,2 @@
-# aenet
+# aenetcopy
 copy aenet to test
